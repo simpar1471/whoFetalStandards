@@ -16,6 +16,8 @@ knitr::opts_chunk$set(
 # whoFetalStandards
 
 <!-- badges: start -->
+[![R-CMD-check](https://github.com/simpar1471/whoFetalStandards/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/simpar1471/whoFetalStandards/actions/workflows/R-CMD-check.yaml)
+[![Codecov test coverage](https://codecov.io/gh/simpar1471/whoFetalStandards/graph/badge.svg)](https://app.codecov.io/gh/simpar1471/whoFetalStandards)
 <!-- badges: end -->
 
 **whoFetalStandards** makes the WHO Fetal Standards available to R users. It has
