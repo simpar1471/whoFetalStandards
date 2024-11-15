@@ -1,7 +1,7 @@
 Package: whoFetalStandards
 Type: Package
 Title: Calculate z-scores and centiles in the WHO Fetal Standards
-Version: 0.1.0
+Version: 0.1.0.9000
 Authors@R: c(
     person(given = "Simon", family = "Parker",
            email = "simon.parker1471@outlook.com",
