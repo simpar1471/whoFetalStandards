@@ -1,0 +1,26 @@
+Package: whoFetalStandards
+Type: Package
+Title: Calculate z-scores and centiles in the WHO Fetal Standards
+Version: 0.1.0
+Authors@R: c(
+    person(given = "Simon", family = "Parker",
+           email = "simon.parker1471@outlook.com",
+           role = c("aut", "cre"), comment = c(ORCID = "0009-0003-8214-4496"))
+  )
+Maintainer: Simon Parker <simon.parker1471@outlook.com>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: GPL (>= 3)
+Encoding: UTF-8
+LazyData: true
+Depends: 
+    R (>= 4.1.0)
+Imports: 
+    checkmate,
+    cli,
+    vctrs
+RoxygenNote: 7.3.2
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
+Config/testthat/parallel: true
