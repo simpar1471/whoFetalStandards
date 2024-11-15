@@ -5,11 +5,14 @@ Version: 0.1.0
 Authors@R: c(
     person(given = "Simon", family = "Parker",
            email = "simon.parker1471@outlook.com",
-           role = c("aut", "cre"), comment = c(ORCID = "0009-0003-8214-4496"))
+           role = c("aut", "cre", "cph"), 
+           comment = c(ORCID = "0009-0003-8214-4496"))
   )
 Maintainer: Simon Parker <simon.parker1471@outlook.com>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
+Description: Implements the WHO Fetal standards to allow users to convert fetal
+    biometry to centiles and z-scores. Utilises the Fetal standards published
+    by Kiserud et al. (2017). PLoS Med 14:e1002220. These are described 
+    online at <https://srhr.org/fetalgrowthcalculator/>.
 License: GPL (>= 3)
 Encoding: UTF-8
 LazyData: true

@@ -14,8 +14,8 @@ coverage](https://codecov.io/gh/simpar1471/whoFetalStandards/graph/badge.svg)](h
 users. It has few functions, which can be used to convert fetal biometry
 to centiles or z-scores. The API is very similar to the **gigs** package
 for R, which implements similar standards from the WHO and the
-INTERGROWTH-21<sup>st</sup> projects. You can find that package
-[here]().
+INTERGROWTH-21<sup>st</sup> projects. You can find that package at
+[lshtm-gigs/gigs](https://www.github.com/lshtm-gigs/gigs).
 
 ## Installation
 
